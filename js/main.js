@@ -1,6 +1,6 @@
 /*  ---------------------------------------------------
-    Template Name: Gutim
-    Description: Gutim Fitness HTML Template
+     Name: Muscle Toner's Gym
+    Description: Muscle Toner's Gym Fitness HTML 
     Author: Colorlib
     Author URI: http://colorlib.com
     Version: 1.0
